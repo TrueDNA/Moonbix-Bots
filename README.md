@@ -1,6 +1,6 @@
 ## Recommendation before use
 
-# Join the bot [here](https://t.me/Binance_Moonbix_bot/start?startApp=ref_6624523270&startapp=ref_6624523270&utm_medium=web_share_copy)
+# Join the bot [here](https://t.me/Binance_Moonbix_bot/start?startApp=ref_6142904262&startapp=ref_6142904262&utm_medium=web_share_copy)
 
 > [!WARNING]
 > I am not responsible for your account. Please consider the potential risks before using this bot.
@@ -17,7 +17,7 @@
 | Auto play game                                                |        ✅        |
 | Support for pyrogram .session                                 |        ✅        |
 Auto get maxium points each game        |        ✅        |
-## [Settings](https://github.com/vanhbakaa/moonbix-bot/blob/main/.env-example)
+## [Settings](https://github.com/truedna/moonbix-bots/blob/main/.env-example)
 | Settings | Description |
 |----------------------------|:-------------------------------------------------------------------------------------------------------------:|
 | **API_ID / API_HASH**      | Platform data from which to run the Telegram session (default - android)                                      |       
@@ -42,7 +42,7 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Installation
-You can download the [**repository**](https://github.com/vanhbakaa/Kaia-bot/) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://t.me/Binance_Moonbix_bot/start?startApp=ref_6142904262&startapp=ref_6142904262&utm_medium=web_share_copy) by cloning it to your system and installing the necessary dependencies:
 ```shell
 git clone https://github.com/vanhbakaa/moonbix-bot.git
 cd moonbix-bot
@@ -122,7 +122,7 @@ You can also use arguments for quick start, for example:
 
 If you'd like to support the development of this project, please consider making a donation. Every little bit helps!
 
-👉 **[Click here to view donation options](https://github.com/vanhbakaa/Donation/blob/main/README.md)** 👈
+👉 **[Click here to view donation options](https://t.me/Binance_Moonbix_bot/start?startApp=ref_6142904262&startapp=ref_6142904262&utm_medium=web_share_copy)** 👈
 
 Your support allows us to keep improving the project and bring more features!
 
